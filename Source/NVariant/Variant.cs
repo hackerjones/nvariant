@@ -4,7 +4,7 @@
 // binary distributions or online at
 // http://www.microsoft.com/opensource/licenses.mspx#Ms-PL
 //
-// NVariant.cs
+// Variant.cs
 
 using System;
 using System.Runtime.InteropServices;
